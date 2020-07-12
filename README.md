@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am Sunil L. I work as Software Engineer. My Passion lies in understanding life through code, art and music.
 
 <!--
 **sunilandroidnayak/sunilandroidnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
