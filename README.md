@@ -5,6 +5,5 @@
 - ⚡ I’m currently learning ReactJS and NodeJS
 - 🤔 I’m a Hobby Photographer. Instagram : @__sunil
 - 💬 Let's talk about Art, Music and Code. 
-- ⚡ Fun fact: I follow Youtube Rabbitholes
 
-[![Hits](http://hits.dwyl.com/sunilandroidnayak/sunilandroidnayak.svg)](http://hits.dwyl.com/sunilandroidnayak/sunilandroidnayak) :eyes:
+[![Hits](http://hits.dwyl.com/sunilandroidnayak/sunilandroidnayak.svg)](http://hits.dwyl.com/sunilandroidnayak/sunilandroidnayak) 
