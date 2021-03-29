@@ -1,7 +1,5 @@
 ### Hi, I'm Sunil L 👋
 
-- 👯 Software Engineer with 5.7 years of Experience from Bangalore.
-- 🔭 Have worked on Hadoop, AWS, Docker, DC/OS, Python and Javascript based Projects.
-- ⚡ Actively getting better at Machine Learning, Big Data and AWS
-- 🤔 I’m a Hobby Photographer. Instagram : @__sunil
-- 💬 Big nerd about Code, AWS and Art. 
+- 👯 Software Engineer with 5+ years of Experience from Bangalore.
+- 🔭 Big Data, AWS, Docker, Python and Javascript gets my work done.
+- 🤔 Hobby Photographer. Instagram : @__sunil
