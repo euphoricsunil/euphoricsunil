@@ -2,4 +2,4 @@
 
 - 👯 Software Engineer with 5+ years of Experience from Bangalore.
 - 🔭 Big Data, PySpark, AWS, Docker and Python.
-- 🤔 Finding beauty in world via code.
+- 🤔 Making a difference with code.
