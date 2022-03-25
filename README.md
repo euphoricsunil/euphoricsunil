@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Sunil L</h1>
+<h1 align="center">Sunil L</h1>
 
 <div align=center>
   <a href="https://www.linkedin.com/in/sunil-l/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
