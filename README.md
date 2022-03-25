@@ -6,7 +6,7 @@
  <p><img src="https://komarev.com/ghpvc/?username=euphoricsunil" alt="euphoricsunil" /></p>
 </div>
 
-- Here to build some fun projects !
+<div align=center>Let's build some fun projects !</div>
 
 <br>
 
