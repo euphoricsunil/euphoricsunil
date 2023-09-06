@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m working as a Full-Stack Typescript developer <br>🔭 My choice of technologies are React.js and Express.js using Typescript along with AWS as cloud infrastructure<br>🌱 I’m currently learning more about better user experience and scalable Architecture <br>⚡ Fun fact :  I am an amateur photographer ! 
+# 💫 Hi, I'm Sunil !
+🌱 I’m working as a Full-Stack Web developer <br>🔭 My choice of technologies are React.js and Express.js using Typescript along with AWS as cloud infrastructure<br>🌱 I’m currently learning more about better user experience and scalable Architecture <br>⚡ Fun fact :  I am an amateur photographer ! 
 
 
 # 💻 Tech Stack:
